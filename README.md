@@ -6,6 +6,7 @@ Hi,
 - Twitter: @preetrnj
 - Blog Website that I built: https://preetcodeblogs.azurewebsites.net
 - My Blog: (Check my my blog)[https://pritishcodeblogs.blogspot.com]
+- My Portfolio : [https://preetranjan.github.io/knowme/]
 
 <!---
 PreetRanjan/PreetRanjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
