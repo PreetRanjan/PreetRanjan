@@ -5,7 +5,7 @@ Hi,
 
 - Twitter: @preetrnj
 - Blog Website that I built: https://preetcodeblogs.azurewebsites.net
-- My Blog: (Check my my blog)[https://pritishranjan.com]
+- My Blog: (Check my my blog)[https://www.pritishranjan.com]
 - My Portfolio : [https://preetranjan.github.io/knowme/]
 
 <!---
