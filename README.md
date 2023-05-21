@@ -4,7 +4,7 @@ Hi,
 - I have skills on Python, SQL, PySpark
 
 - Twitter: @preetrnj
-- Blog Website that I built: https://preetcodeblogs.azurewebsites.net
+- Blog Website that I built: https://preetblogs.azurewebsites.net
 - My Blog: (Check my my blog)[https://www.pritishranjan.com]
 - My Portfolio : [https://preetranjan.github.io/knowme/]
 
