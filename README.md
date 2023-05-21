@@ -1,7 +1,7 @@
 Hi,
 - 👋🏼 I am **PREET**ish Ranjan.
-- I mostly work on C#, ASP.NET Core, Angular.
-- I have skills on Python, SQL, PySpark
+- I mostly work on Python, SQL, PySpark.
+- I have skills on C#, ASP.NET Core, Angular.
 
 - Twitter: @preetrnj
 - Blog Website that I built: https://preetblogs.azurewebsites.net
